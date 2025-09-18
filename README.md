@@ -24,3 +24,5 @@
 * Docker config
 ----
 ### I am sorry for commiting straight to master branch and also for the lack of documentation, i dont have enough time for it because of work.
+
+P.S. don't try to find any passwords or API keys, everything in env
