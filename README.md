@@ -21,3 +21,6 @@
 * Refactor .get in service
 * Notification about tasks
 * Categories
+* Docker config
+----
+### I am sorry for commiting straight to master branch and also for the lack of documentation, i dont have enough time for it because of work.
